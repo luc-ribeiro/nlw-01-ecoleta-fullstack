@@ -1,0 +1,12 @@
+   {
+		"name": "Mercado do seu Zé", 
+    "email": "contato@imperatriz.com.br", 
+    "whatsapp": "179999-9999", 
+    "latitude": -46.7222, 
+    "longitude": -34.5342, 
+    "city": "São José do Rio Preto", 
+    "uf": "SP", 
+    "items": [
+			1, 2, 6
+		]
+	 } 
