@@ -48,41 +48,84 @@ e assim, colaborar com o meio ambiente.
 
 ## :page_facing_up: Como utilizar
 
-    1. Abra o seu terminal e digite o comando:
-    
-      $ git clone https://github.com/luc-ribeiro/nlw-01-ecoleta.git
-      
-    2. Instale as dependências: 
-      com npm
-        $ npm install
+Faça um clone deste repositório:
 
-      com yarn
-        $ yarn install
-        
-     3. Para criar o seu banco de dados:
-      - cd server
-      - npm run knex:migrate
-      - npm run knex:seed 
+```sh
+  $ git clone https://github.com/luc-ribeiro/nlw-01-ecoleta.git
+```
 
-    4. Comando para ligar o servidor:
-    
-      $ yarn dev:server
-        * Server is running on http://localhost:3333/
+#### Back-End
 
-    5. Comando para iniciar o ReactJS
-    
-      $ yarn start
+Instale as dependências:
 
-    6. Vá para http://localhost:3000/
+```sh
+  # com npm
+  $ npm install
 
-  #### Como utilizar a aplicação Mobile
-    
-    1. Instale o Expo no seu dispositivo móvel.
-    
-    2. Instale o Expo CLI em sua máquina
+  # com yarn
+  $ yarn install
+```
 
-      $ yarn global add expo-cli
-     
-    3. Após ligar o servidor, abra o projeto mobile Ecoleta e rode o comando no seu terminal:
-    
-      $ yarn start
+Inicie o projeto, entre na pasta **server** e execute o comando:
+
+```sh
+  # com npm
+  $ npm start
+
+  # com yarn
+  $ yarn start
+```
+
+Acesse o projeto em `localhost:3333`
+
+#### Front-End
+
+Instale as dependências:
+
+```sh
+  # com npm
+  $ npm install
+
+  # com yarn
+  $ yarn install
+```
+
+Inicie o projeto, entre na pasta **web** e execute o comando:
+
+```sh
+  # com npm
+  $ npm start
+
+  # com yarn
+  $ yarn start
+```
+
+Acesse o projeto em `localhost:3000`
+
+#### Mobile
+
+Instale as dependências:
+
+```sh
+  # com npm
+  $ npm install
+
+  # com yarn
+  $ yarn install
+```
+
+Inicie o projeto, entre na pasta **mobile** e execute o comando:
+
+```sh
+  # com npm
+  $ npm start
+
+  # com yarn
+  $ yarn start
+```
+
+**É necessário ter o aplicativo Expo instalado em seu dispositivo Android ou IOS**
+
+## :memo: License
+
+Copyright © 2020 Lucas Ribeiro / Rocketseat
