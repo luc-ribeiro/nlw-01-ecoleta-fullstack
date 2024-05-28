@@ -12,8 +12,6 @@ Next Level Week #01 - Ecoleta
 </div>
 
 ## 💻 Project
-This project was created during Rocketseat's Next Level Week #01 event.
-
 Ecoleta is a Web and Mobile platform where companies that collect waste and recyclable materials can promote their projects and help the environment.
 People interested in correctly disposing of these materials can find the nearest location in their city and thus contribute to the environment.
 
