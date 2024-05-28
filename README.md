@@ -7,18 +7,20 @@ Next Level Week #01 - Ecoleta
 </h1>
 <br>
 
-## 💻 Projeto
-Este projeto foi criado durante o evento Next Level Week #01 da Rocketseat.
+<div align="right">
+  Clique <a href="https://github.com/luc-ribeiro/nlw-01-ecoleta-fullstack/blob/master/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
 
-Ecoleta é uma plataforma Web e também Mobile, onde empresas que fazem coleta de resíduos e materiais possam
-divulgar o projeto e ajudar o meio ambiente.
-As pessoas interessadas em descartar esses materiais de modo correto, poderão buscar pelo lugar mais próximo em sua cidade
-e assim, colaborar com o meio ambiente.
+## 💻 Project
+This project was created during Rocketseat's Next Level Week #01 event.
 
-## 🚀 Tecnologias
+Ecoleta is a Web and Mobile platform where companies that collect waste and recyclable materials can promote their projects and help the environment.
+People interested in correctly disposing of these materials can find the nearest location in their city and thus contribute to the environment.
+
+## 🚀 Technologies
 
 - **React**
-- **React Native** 
+- **React Native**
 - **Node JS**
 - **Expo**
 - **TypeScript**
@@ -28,104 +30,100 @@ e assim, colaborar com o meio ambiente.
 <br>
 <hr>
 
-### Tela Inicial
+### Home Screen
 ![Ecoleta](https://github.com/luc-ribeiro/nlw-01-Ecoleta/blob/master/design/tela0.png?raw=true)
 <br>
 
-### Cadastros
+### Registrations
 ![Ecoleta](https://github.com/luc-ribeiro/nlw-01-Ecoleta/blob/master/design/tela1.png?raw=true)
 <br>
 
-### Visualização por mapa
+### Map View
 ![Ecoleta](https://github.com/luc-ribeiro/nlw-01-Ecoleta/blob/master/design/tela2.png?raw=true)
 <br>
 <br>
 <br>
 
-### Versão Mobile
+### Mobile Version
 ![Ecoleta](https://github.com/luc-ribeiro/nlw-01-Ecoleta/blob/master/design/mobile.png?raw=true)
 <br>
 
-## :page_facing_up: Como utilizar
+## :page_facing_up: How to use
 
-Faça um clone deste repositório:
+Clone this repository:
 
 ```sh
-  $ git clone https://github.com/luc-ribeiro/nlw-01-ecoleta.git
+  $ git clone https://github.com/luc-ribeiro/nlw-01-ecoleta-fullstack.git
 ```
 
 #### Back-End
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Inicie o projeto, entre na pasta **server** e execute o comando:
+Start the project, go to the **server** folder and run the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm start
 
-  # com yarn
+  # with yarn
   $ yarn start
 ```
 
-Acesse o projeto em `localhost:3333`
+Access the project at `localhost:3333`
 
 #### Front-End
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Inicie o projeto, entre na pasta **web** e execute o comando:
+Start the project, go to the **web** folder and run the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm start
 
-  # com yarn
+  # with yarn
   $ yarn start
 ```
 
-Acesse o projeto em `localhost:3000`
+Access the project at `localhost:3000`
 
 #### Mobile
 
-Instale as dependências:
+Install the dependencies:
 
 ```sh
-  # com npm
+  # with npm
   $ npm install
 
-  # com yarn
+  # with yarn
   $ yarn install
 ```
 
-Inicie o projeto, entre na pasta **mobile** e execute o comando:
+Start the project, go to the **mobile** folder and run the command:
 
 ```sh
-  # com npm
+  # with npm
   $ npm start
 
-  # com yarn
+  # with yarn
   $ yarn start
 ```
 
-**É necessário ter o aplicativo Expo instalado em seu dispositivo Android ou IOS**
-
-## :memo: License
-
-Copyright © 2020 Lucas Ribeiro / Rocketseat
+**You need to have the Expo app installed on your Android or iOS device**
